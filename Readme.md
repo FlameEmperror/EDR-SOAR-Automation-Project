@@ -9,7 +9,7 @@ The project is organized into five main parts:
 ### 1. **Diagramming and Workflow Design**
    - Created a high-level workflow map that defines how detections, alerts, and responses flow through the automation system.
    - This design serves as the foundation for integrating the different tools used in subsequent phases.
-   ![WorkFlow](image.png)
+   ![WorkFlow](Workflow.png)
 
 ### 2. **Setting Up Virtual Machines and Software Installation**
    - Set up a **Windows 10** virtual machine with **Sysmon** to capture system events for detection purposes.
@@ -36,6 +36,6 @@ The project is organized into five main parts:
 
 This project demonstrates a robust SOAR capability, enabling SOCs to reduce response times and automate routine tasks, freeing analysts to focus on higher-priority security threats. It serves as a valuable example of how automation can enhance incident management, providing a structured workflow that can be expanded for larger-scale deployments.
 
-Refer to this docuemnt for the Step Step guide to the project
+Refer to this [Project Report](SOAR-EDR.pdf) for the Step Step guide to the project
 
 ---
